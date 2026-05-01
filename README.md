@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rohit Ranjan an UG student.
+- 👋 Hi, I’m Rohit Ranjan a PG student.
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning full stack and DSA
 - 💞️ I’m looking to collaborate on ...
